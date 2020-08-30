@@ -138,6 +138,6 @@ EMAIL_HOST_PASSWORD = 'password'  # here is API key
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-DEFAULT_FROM_EMAIL = 'jrzord2@gmail.com'
+DEFAULT_FROM_EMAIL = 'email'  # here is your email
 
 
