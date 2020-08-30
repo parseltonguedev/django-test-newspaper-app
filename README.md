@@ -7,3 +7,7 @@ Newspaper app has:
 - robust user authentication flow including the use of email for password resets
 - added custom user model ( for adding additional fields)
 - added an additional Comment model
+
+
+Deployed on heroku:
+http://newsparselapp.herokuapp.com/
